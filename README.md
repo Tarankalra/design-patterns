@@ -2,6 +2,7 @@
 
 **Sources**
 1. https://github.com/sbvkrishna/low-level-design
+2. Educative.io soft copy - https://akshay-iyangar.github.io/system-design/
 
 **Most Important Design Patterns**
 1. Singleton
